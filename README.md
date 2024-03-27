@@ -2,7 +2,11 @@
   <img src="images/logo.png"> <br>
   <b>:fire: Control your :penguin: Linux machine with Telegram bot.</b> <br>
 </p>
-  
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram%20Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cyber_notes)
+ 
 ## :herb: Functions:
 - [x] Desktop Screenshot
 - [x] Webcam Screenshot/Video
