@@ -3,8 +3,6 @@
   <b>:fire: Control your :penguin: Linux machine with Telegram bot.</b> <br>
 </p>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kraloveckey)
-
 ## :herb: Functions:
 - [x] Desktop Screenshot
 - [x] Webcam Screenshot/Video
@@ -50,3 +48,9 @@
    ``` bash
    python3 main.py --InstallAgent
    ```
+
+---
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
+  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
+</a>
