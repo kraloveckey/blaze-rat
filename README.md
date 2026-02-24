@@ -68,9 +68,3 @@ align="center">🔥 Cross platform Telegram based RAT that communicates via tele
     5. Upload file to client.
     6. Download file from client.
     7. You can convert `blazer-client.py` to exe using `pyinstaller` tool in Windows.
-
----
-
-<a href="https://www.paypal.com/donate/?hosted_button_id=GWWLEXEF3XL92">
-  <img src="https://raw.githubusercontent.com/kraloveckey/kraloveckey/refs/heads/main/.assets/paypal-donate-button.png" alt="Donate with PayPal" width="225" height="100"/>
-</a>
